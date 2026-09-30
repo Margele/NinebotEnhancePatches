@@ -1,0 +1,14 @@
+/build/
+/dist/
+/tools/
+/signing/
+/.gradle/
+/.kotlin/
+**/build/
+**/__pycache__/
+/.idea/
+*.iml
+*.log
+*.keystore
+*.jks
+/.lody/

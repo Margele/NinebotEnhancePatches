@@ -1,0 +1,4 @@
+[submodule "module"]
+	path = module
+	url = https://github.com/Margele/NinebotEnhance.git
+	branch = embedded-host
